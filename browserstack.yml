@@ -1,0 +1,12 @@
+userName: jtorr_fjloOk
+accessKey: JGV2smKhxBTmfm7r21jF
+framework: junit4
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 103.0
+parallelsPerPlatform: 1
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
