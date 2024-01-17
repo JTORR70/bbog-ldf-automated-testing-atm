@@ -6,3 +6,25 @@
 10:09:30.655 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/24478af4ce34ccd9b69504d006393803b903dcaf
 10:09:30.656 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
 10:09:33.130 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+10:10:01.075 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] yml file path /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing-atm/browserstack.yml doesn't exist
+10:10:01.077 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] yml file path /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing-atm/browserstack.yml doesn't exist
+10:48:20.366 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:48:20.394 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+10:48:20.395 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+10:48:24.002 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+10:48:25.068 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:48:48.979 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/6d704aa7d8a52d836dbba5e8944c728a5491f989
+10:48:48.979 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+10:48:50.493 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+10:54:34.424 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - java.lang.NullPointerException: Cannot invoke "java.util.Map.size()" because "m" is null.
+10:54:34.426 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:54:34.431 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+10:54:34.431 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.Exception: Empty userName or accessKey
+10:57:58.576 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:57:58.600 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+10:57:58.600 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+10:58:02.323 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+10:58:03.399 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:58:26.361 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a2319be671af48d5841873c83089835c2aedd434
+10:58:26.361 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+10:58:28.730 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.

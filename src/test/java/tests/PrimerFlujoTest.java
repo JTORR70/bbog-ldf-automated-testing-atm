@@ -1,12 +1,14 @@
 package tests;
 
+
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Test;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import pages.PageHome;
 import pages.PageRates;
 import utils.BasePage;
 
-import java.io.IOException;
+import java.time.Duration;
 import java.util.concurrent.TimeUnit;
 
 public class PrimerFlujoTest extends BasePage{
