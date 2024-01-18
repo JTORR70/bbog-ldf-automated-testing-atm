@@ -77,6 +77,10 @@
             <version>RELEASE</version>
             <scope>test</scope>
         </dependency>
+            <dependency>
+                <groupId>com.browserstack</groupId>
+                <artifactId>browserstack-java-sdk</artifactId>
+                <version>LATEST</version>
+            </dependency>
     </dependencies>
-
 </project>

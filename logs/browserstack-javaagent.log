@@ -28,3 +28,255 @@
 10:58:26.361 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a2319be671af48d5841873c83089835c2aedd434
 10:58:26.361 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
 10:58:28.730 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+17:31:26.958 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:31:26.979 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+17:31:26.980 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:31:30.441 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:31:31.678 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:32:01.767 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a6051f846a338e580dc8efbeaaebca32cbd20e28
+17:32:01.767 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:32:03.160 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+17:38:39.305 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:38:39.335 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+17:38:39.335 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:38:42.873 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:38:44.019 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:38:50.980 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+17:39:24.785 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:39:24.809 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+17:39:24.809 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:39:28.310 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:39:29.406 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:39:53.656 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/115ceab5c4a4756e759c5fe7345007d4ede3a829
+17:39:53.657 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:39:55.065 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+17:47:19.207 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:47:19.233 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+17:47:19.233 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:47:22.735 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:47:23.919 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:47:46.908 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a76db986b57abd7f9b4ca45cc1455dcb9a2a5d44
+17:47:46.908 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+17:47:48.322 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+17:59:32.744 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:59:32.765 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+17:59:32.766 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:59:36.400 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:59:37.654 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:00:28.518 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a76db986b57abd7f9b4ca45cc1455dcb9a2a5d44
+18:00:28.518 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:00:29.970 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:03:10.965 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:03:10.989 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:03:10.989 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:03:14.624 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:03:15.609 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:03:55.331 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a76db986b57abd7f9b4ca45cc1455dcb9a2a5d44
+18:03:55.332 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:03:56.740 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:14:09.424 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:14:09.448 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:14:09.448 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:14:12.969 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:14:14.155 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:14:36.989 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a76db986b57abd7f9b4ca45cc1455dcb9a2a5d44
+18:14:36.990 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:14:38.429 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:16:00.933 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:16:00.961 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:16:00.961 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:16:04.414 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:16:05.563 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:16:21.806 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a76db986b57abd7f9b4ca45cc1455dcb9a2a5d44
+18:16:21.807 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:16:23.274 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:17:43.745 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:17:43.773 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:17:43.773 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:17:47.318 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:17:48.477 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:18:15.092 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a76db986b57abd7f9b4ca45cc1455dcb9a2a5d44
+18:18:15.092 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:18:16.596 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:29:41.773 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:29:41.795 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:29:41.796 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:29:45.397 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:29:46.603 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:30:22.967 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a76db986b57abd7f9b4ca45cc1455dcb9a2a5d44
+18:30:22.967 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:30:24.507 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:35:11.078 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:35:11.104 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:35:11.104 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:35:14.742 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:35:15.936 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:35:34.064 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/b273d68ecb619da6b206f8daab20d9705777b53e
+18:35:34.064 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:35:35.439 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:35:58.844 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:35:58.870 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:35:58.870 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:36:02.393 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:36:03.410 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:36:18.764 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/b273d68ecb619da6b206f8daab20d9705777b53e
+18:36:18.765 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:36:20.200 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:36:48.425 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:36:48.451 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:36:48.452 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:36:51.865 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:36:52.934 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:37:30.593 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/b273d68ecb619da6b206f8daab20d9705777b53e
+18:37:30.593 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:37:32.000 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:38:29.529 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:38:29.557 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:38:29.557 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:38:33.118 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:38:34.253 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:39:00.271 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0c8251b74222e0de8eea4c51f2b42a1979b28375
+18:39:00.271 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:39:01.900 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:41:20.545 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:41:20.569 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:41:20.570 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:41:24.172 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:41:25.318 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:41:40.523 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/6d690eceff1bbdfe57cefe3a98b9e9c566491e40
+18:41:40.524 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:41:41.928 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:42:52.012 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:42:52.037 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:42:52.037 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:42:55.301 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:42:56.286 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:43:25.384 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/b4c53e76d7cb6b3200987c205f16ca34eabb13a2
+18:43:25.384 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:43:26.814 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:44:08.376 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:44:08.402 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:44:08.402 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:44:11.812 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:44:12.764 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:44:36.182 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/84fe4e39d7bdb055050db0f7b269c6b8878ef79a
+18:44:36.183 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:44:37.626 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:44:53.775 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:44:53.799 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:44:53.799 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:44:57.121 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:44:58.116 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:45:12.969 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a3c67d353745b247eff05e18be782963a30a8149
+18:45:12.969 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:45:14.443 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:46:47.048 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:46:47.068 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:46:47.068 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:46:50.510 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:46:51.674 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:47:08.269 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f1649cf0bb986d22579100d5dcb75cbed4940b96
+18:47:08.270 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:47:09.769 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:47:43.516 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:47:43.541 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:47:43.542 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:47:46.926 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:47:47.909 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:48:22.879 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f1649cf0bb986d22579100d5dcb75cbed4940b96
+18:48:22.879 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:48:24.243 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:56:35.970 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:56:35.996 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:56:35.996 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:56:39.638 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:56:40.849 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:57:14.791 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f1649cf0bb986d22579100d5dcb75cbed4940b96
+18:57:14.792 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:57:16.027 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:57:24.417 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:57:24.444 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:57:24.444 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:57:27.863 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:57:28.922 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:57:55.089 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f1649cf0bb986d22579100d5dcb75cbed4940b96
+18:57:55.090 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:57:56.484 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+18:58:26.825 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:58:26.849 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+18:58:26.849 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+18:58:30.251 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+18:58:31.325 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+18:58:50.047 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f1649cf0bb986d22579100d5dcb75cbed4940b96
+18:58:50.048 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+18:58:51.533 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+19:06:13.237 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:06:13.263 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+19:06:13.264 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+19:06:17.005 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+19:06:18.217 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:06:37.309 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f1649cf0bb986d22579100d5dcb75cbed4940b96
+19:06:37.309 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+19:06:38.867 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+19:07:11.493 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:07:11.514 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+19:07:11.514 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+19:07:15.149 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+19:07:16.154 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:07:56.149 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f1649cf0bb986d22579100d5dcb75cbed4940b96
+19:07:56.150 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+19:07:57.707 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+19:08:12.452 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:08:12.480 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+19:08:12.480 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+19:08:15.893 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+19:08:17.000 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:08:41.672 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f1649cf0bb986d22579100d5dcb75cbed4940b96
+19:08:41.672 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+19:08:43.140 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+19:09:59.495 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:09:59.519 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+19:09:59.520 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+19:10:02.833 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+19:10:03.838 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:10:20.377 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f1649cf0bb986d22579100d5dcb75cbed4940b96
+19:10:20.377 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+19:10:21.773 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+19:13:15.209 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:13:15.232 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+19:13:15.232 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+19:13:18.770 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+19:13:19.925 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:13:59.225 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f1649cf0bb986d22579100d5dcb75cbed4940b96
+19:13:59.225 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+19:14:00.819 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+19:54:58.535 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+19:54:58.537 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+19:54:58.708 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing-atm/browserstack.yml
+19:54:58.739 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:54:59.210 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 tests.PrimerFlujoTest,createRate
+19:54:59.221 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+19:55:04.210 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+19:55:04.810 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+19:55:08.491 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+19:55:08.857 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing-atm/browserstack.yml
+19:55:08.886 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:55:12.668 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+19:55:53.846 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/ef1693d37f5732da3420f7c177969986cc6b72b2
+19:55:53.846 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+19:55:55.220 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+20:03:57.467 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+20:03:57.469 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+20:03:57.613 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing-atm/browserstack.yml
+20:03:57.646 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+20:03:58.124 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 tests.PrimerFlujoTest,createRate
+20:03:58.136 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+20:04:03.143 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+20:04:03.917 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+20:04:07.614 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+20:04:08.015 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing-atm/browserstack.yml
+20:04:08.047 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+20:04:12.505 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+20:04:54.123 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/ef1693d37f5732da3420f7c177969986cc6b72b2
+20:04:54.123 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+20:04:55.615 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.

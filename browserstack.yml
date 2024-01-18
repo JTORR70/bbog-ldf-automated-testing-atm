@@ -1,12 +1,16 @@
-#userName: jtorr_fjloOk
-#accessKey: JGV2smKhxBTmfm7r21jF
-#framework: junit4
-#platforms:
-#  - os: Windows
-#    osVersion: 10
-#    browserName: Chrome
-#    browserVersion: 120.0
-#parallelsPerPlatform: 1
-#browserstackLocal: true
-#buildName: browserstack ATM
-#projectName: automated-testing
+userName: jtorr_fjloOk
+accessKey: JGV2smKhxBTmfm7r21jF
+framework: junit4
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+browserstackLocal: true
+buildName: Semillero ATM
+projectName: Tribu Credito Comercial
+buildIdentifier: Actualizar tasas
+browserstack.geoLocation: CO
+debug: false
+networkLogs: true
+consoleLogs: errors

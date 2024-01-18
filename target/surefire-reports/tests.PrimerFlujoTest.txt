@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.PrimerFlujoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.507 s -- in tests.PrimerFlujoTest

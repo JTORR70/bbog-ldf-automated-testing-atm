@@ -30,15 +30,15 @@ public class BasePage {
 
     public BasePage(WebDriver driver){
         BasePage.driver = driver;
-        wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        wait = new WebDriverWait(driver, Duration.ofSeconds(30));
     }
 
     public WebElement Find(String locator){
         return wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(locator)));
     }
 
-    public void click(String locator){
-        Find(locator).click();
+    public void text(String locator){
+        Find(locator).getText();
     }
 
     public void shadowClick(By root, By element) {
@@ -55,14 +55,14 @@ public class BasePage {
     }
 
     public void shadowClearOne(By root, By element) {
-        WebElement rootOne = driver.findElement(root);
-        SearchContext shadowRoot1 = rootOne.getShadowRoot();
-        shadowRoot1.findElement(element).clear();
+        WebElement preRoot = driver.findElement(root);
+        SearchContext locator = preRoot.getShadowRoot();
+        locator.findElement(element).clear();
     }
 
     public static String getText(By root, By element) {
-        WebElement rootOne = driver.findElement(root);
-        SearchContext shadowRoot1 = rootOne.getShadowRoot();
-        return shadowRoot1.findElement(element).getText();
+        WebElement preRoot = driver.findElement(root);
+        SearchContext locator = preRoot.getShadowRoot();
+        return locator.findElement(element).getText();
     }
 }
