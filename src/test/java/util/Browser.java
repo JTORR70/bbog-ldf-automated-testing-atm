@@ -1,4 +1,4 @@
-package utils;
+package util;
 
 import com.sun.security.auth.login.ConfigFile;
 import org.openqa.selenium.WebDriver;

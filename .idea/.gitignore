@@ -1,3 +1,25 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+##########################
+## IntelliJ ##
+##########################
+*.iml
+.idea/
+*.ipr
+*.iws
+out/
+.idea_modules/
+##########################
+## BROWSERSTACK
+##########################
+local.log
+logs
+##########################
+## Java
+##########################
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+hs_err_pid*

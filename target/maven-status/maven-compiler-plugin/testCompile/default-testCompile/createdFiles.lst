@@ -1,6 +1,8 @@
 utils/BasePage.class
-tests/PrimerFlujoTest.class
-pages/PageHome.class
+runner/TestRunner.class
 utils/Browser.class
 pages/PageRates.class
+pages/PageHome.class
+steps/PageSteps.class
+steps/Hooks.class
 utils/ExcelData.class

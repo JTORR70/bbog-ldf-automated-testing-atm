@@ -6,11 +6,10 @@ platforms:
     osVersion: 11
     browserName: Chrome
     browserVersion: latest
-browserstackLocal: true
-buildName: Semillero ATM
-projectName: Tribu Credito Comercial
-buildIdentifier: Actualizar tasas
-browserstack.geoLocation: CO
-debug: false
+buildName: LineasDeFacturas_
+projectName: Lineas De Facturas
+buildIdentifier: 'ValDispositivos'
+geoLocation: CO
+local: true
+debug: true
 networkLogs: true
-consoleLogs: errors

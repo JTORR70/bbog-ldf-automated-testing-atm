@@ -1,6 +1,5 @@
-package utils;
+package util;
 
-import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.openqa.selenium.By;
 import org.openqa.selenium.SearchContext;
@@ -12,7 +11,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
-import java.util.concurrent.TimeUnit;
 
 public class BasePage {
 
@@ -66,7 +64,9 @@ public class BasePage {
         return locator.findElement(element).getText();
     }
 
-    public static void navigateTo(String url){
-        driver.get(url);
+    public static WebElement getIcon(By root, By element) {
+        WebElement preRoot = driver.findElement(root);
+        SearchContext locator = preRoot.getShadowRoot();
+        return locator.findElement(element);
     }
 }

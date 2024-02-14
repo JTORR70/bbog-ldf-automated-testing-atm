@@ -3,28 +3,21 @@ package tests;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
-import org.apache.commons.io.FileUtils;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
 import pages.PageHome;
 import pages.PageRates;
 import util.BasePage;
-import util.Reports;
 
-import java.io.File;
-import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 import static util.Reports.capture;
 
-public class PrimerFlujoTest extends BasePage {
+public class TestRates extends BasePage {
     PageHome page = new PageHome();
     PageRates rates = new PageRates();
-    public PrimerFlujoTest() {
+    public TestRates() {
         super(driver);
     }
 
