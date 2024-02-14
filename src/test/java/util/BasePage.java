@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 public class BasePage {
 
     private static WebDriverWait wait;
-    protected static WebDriver driver;
+    public static WebDriver driver;
 
     @BeforeAll
     public static void setUpDriver(){
@@ -54,7 +54,7 @@ public class BasePage {
         locator.findElement(element).sendKeys(data);
     }
 
-    public void shadowClearOne(By root, By element) {
+    public void shadowClear(By root, By element) {
         WebElement preRoot = driver.findElement(root);
         SearchContext locator = preRoot.getShadowRoot();
         locator.findElement(element).clear();
@@ -64,5 +64,9 @@ public class BasePage {
         WebElement preRoot = driver.findElement(root);
         SearchContext locator = preRoot.getShadowRoot();
         return locator.findElement(element).getText();
+    }
+
+    public static void navigateTo(String url){
+        driver.get(url);
     }
 }
