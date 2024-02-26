@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestRates">
+    <test name="test1">
+        <classes>
+            <class name = "com.ldf.TestRates">
+                <methods>
+                    <include name="createRate"></include>
+                    <parameter name="Caso" value="creacionTasas" />
+                    <parameter name="nameTestCase" value="TC_Actualizar las tasas en la pantalla principal">
+                    </parameter>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

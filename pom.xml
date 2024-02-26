@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example</groupId>
+    <groupId>com.bdb</groupId>
     <artifactId>bbog-ldf-automated-testing</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -12,6 +12,7 @@
         <maven.compiler.source>19</maven.compiler.source>
         <maven.compiler.target>19</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <org.testng.version>7.7.1</org.testng.version>
     </properties>
 
     <dependencies>
@@ -22,11 +23,17 @@
             <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-api</artifactId>
+            <version>4.1.0</version>
+            <scope>compile</scope>
+        </dependency>
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>4.14.1</version>
+            <version>4.1.2</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.maven/maven-core -->
         <dependency>
@@ -61,11 +68,6 @@
             <groupId>org.dhatim</groupId>
             <artifactId>fastexcel</artifactId>
             <version>0.15.3</version>
-        </dependency>
-        <dependency>
-            <groupId>com.browserstack</groupId>
-            <artifactId>browserstack-java-sdk</artifactId>
-            <version>LATEST</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
         <dependency>
@@ -118,5 +120,70 @@
             <version>1.4.14</version>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>${org.testng.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.browserstack</groupId>
+            <artifactId>browserstack-local-java</artifactId>
+            <version>1.0.6</version>
+        </dependency>
+        <dependency>
+            <groupId>com.googlecode.json-simple</groupId>
+            <artifactId>json-simple</artifactId>
+            <version>1.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>app.getxray</groupId>
+            <artifactId>xray-testng-extensions</artifactId>
+            <version>0.1.0</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>app.getxray</groupId>
+            <artifactId>xray-maven-plugin</artifactId>
+            <version>0.7.0</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.ws.commons.util</groupId>
+            <artifactId>ws-commons-util</artifactId>
+            <version>1.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlrpc</groupId>
+            <artifactId>xmlrpc-client</artifactId>
+            <version>3.1.3</version>
+        </dependency>
+        <dependency>
+            <groupId>xml-apis</groupId>
+            <artifactId>xml-apis</artifactId>
+            <version>2.0.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.httpcomponents.client5</groupId>
+            <artifactId>httpclient5</artifactId>
+            <version>5.2.1</version>
+        </dependency>
+
     </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>app.getxray</groupId>
+                <artifactId>xray-maven-plugin</artifactId>
+                <version>0.7.0</version>
+                <configuration>
+                    <projectKey>LDF</projectKey>
+                    <reportFormat>testng</reportFormat>
+                    <reportFile>target/surefire-reports/testng-results.xml</reportFile>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>
