@@ -3557,3 +3557,470 @@ java.util.HashMap/*<String,Object>*/ seleniumCapsMap = new java.util.HashMap/*<S
 15:00:37.497 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
 15:00:37.937 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
 15:00:37.937 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+15:54:01.414 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+15:54:01.416 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:54:01.578 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+15:54:01.579 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+15:54:02.370 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 tests.TestRates,createRate
+15:54:02.370 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: tests.TestRates
+15:54:02.377 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: junit5, Engine: none
+15:54:02.383 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: junit5, Engine: cucumber from dependencies
+15:54:02.383 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: cucumber-junit5
+15:54:02.383 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.4
+15:54:02.383 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+15:54:03.098 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+15:54:03.693 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 590ms
+15:54:04.483 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 789ms
+15:54:05.565 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1081ms
+15:54:05.567 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+15:54:05.572 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+15:54:05.572 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+15:54:06.122 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+15:54:06.124 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:54:06.125 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:54:06.129 [main] DEBUG com.browserstack.LocalFactory - Starting BrowserStack Local with identifier 14_feb__1554_BOU499879_hv40
+15:54:09.929 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:54:10.389 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+15:54:10.391 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+15:54:10.551 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.4
+15:54:11.253 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+15:54:11.841 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 587ms
+15:54:12.623 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 778ms
+15:54:13.688 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1064ms
+15:54:13.689 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+15:54:13.690 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+15:54:13.753 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+15:54:13.753 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+15:54:19.094 [ForkJoinPool-1-worker-1] DEBUG c.b.utils.SeleniumMethodUtils - OPTIMAL HUB IS: hub-use.browserstack.com
+15:54:55.222 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+15:54:55.687 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
+15:54:55.687 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:47:03.504 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+16:47:03.506 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:47:03.653 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:47:03.654 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:47:03.698 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:47:04.460 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket42327 @w@/tmp/idea_working_dirs_testng.tmp -temp /tmp/idea_testng.tmp
+16:47:04.460 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: 
+16:47:04.465 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: testng, Engine: none
+16:47:04.471 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: testng, Engine: cucumber from dependencies
+16:47:04.471 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: cucumber-testng
+16:47:04.471 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:47:04.471 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+16:47:05.190 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:47:05.796 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 604ms
+16:47:06.601 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 803ms
+16:47:07.713 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1110ms
+16:47:07.715 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:47:07.721 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:47:07.721 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+16:47:08.260 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+16:47:08.263 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:47:08.263 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:47:08.267 [main] DEBUG com.browserstack.LocalFactory - Starting BrowserStack Local with identifier 14_feb__1647_BOU499879_9uYY
+16:47:12.456 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:47:12.876 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:47:12.879 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:47:12.908 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:47:13.014 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:47:13.704 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:47:14.296 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 590ms
+16:47:15.097 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 797ms
+16:47:16.248 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1150ms
+16:47:16.251 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:47:16.255 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:47:16.295 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:47:16.295 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+16:47:19.311 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+16:47:19.775 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
+16:47:19.775 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:48:48.710 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+16:48:48.711 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:48:48.879 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:48:48.881 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:48:48.915 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:48:49.662 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket46775 @w@/tmp/idea_working_dirs_testng.tmp -temp /tmp/idea_testng.tmp
+16:48:49.662 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: 
+16:48:49.667 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: testng, Engine: none
+16:48:49.672 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: testng, Engine: cucumber from dependencies
+16:48:49.672 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: cucumber-testng
+16:48:49.672 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:48:49.672 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+16:48:50.367 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:48:50.985 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 616ms
+16:48:51.793 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 804ms
+16:48:52.884 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1090ms
+16:48:52.886 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:48:52.894 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:48:52.894 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+16:48:53.370 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+16:48:53.373 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:48:53.373 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:48:53.378 [main] DEBUG com.browserstack.LocalFactory - Starting BrowserStack Local with identifier 14_feb__1648_BOU499879_qLP2
+16:48:57.109 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:48:57.549 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:48:57.551 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:48:57.582 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:48:57.697 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:48:58.395 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:48:59.027 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 631ms
+16:48:59.823 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 792ms
+16:49:00.895 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1070ms
+16:49:00.898 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:49:00.901 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:49:00.933 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:49:00.934 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+16:49:04.044 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+16:49:04.541 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
+16:49:04.541 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:51:37.468 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+16:51:37.470 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:51:37.612 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:51:37.613 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:51:37.644 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:51:38.383 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket34947 @w@/tmp/idea_working_dirs_testng.tmp -temp /tmp/idea_testng.tmp
+16:51:38.384 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: 
+16:51:38.391 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: testng, Engine: none
+16:51:38.395 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: testng, Engine: cucumber from dependencies
+16:51:38.395 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: cucumber-testng
+16:51:38.395 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:51:38.395 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+16:51:39.119 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:51:39.714 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 591ms
+16:51:40.550 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 831ms
+16:51:41.624 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1073ms
+16:51:41.626 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:51:41.631 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:51:41.632 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+16:51:42.079 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+16:51:42.082 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:51:42.082 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:51:42.087 [main] DEBUG com.browserstack.LocalFactory - Starting BrowserStack Local with identifier 14_feb__1651_BOU499879_5lok
+16:51:45.766 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:51:46.162 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:51:46.164 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:51:46.192 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:51:46.295 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:51:46.991 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:51:47.548 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 552ms
+16:51:48.331 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 780ms
+16:51:49.378 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1045ms
+16:51:49.380 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:51:49.383 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:51:49.410 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:51:49.410 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+16:51:52.486 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+16:51:53.024 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
+16:51:53.025 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:43.152 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+16:53:43.155 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:53:43.308 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:53:43.309 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:53:43.353 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:53:44.127 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket35261 @w@/tmp/idea_working_dirs_testng.tmp -temp /tmp/idea_testng.tmp
+16:53:44.128 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: 
+16:53:44.136 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: testng, Engine: none
+16:53:44.143 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: testng, Engine: cucumber from dependencies
+16:53:44.143 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: cucumber-testng
+16:53:44.143 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:53:44.143 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+16:53:44.838 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:53:45.433 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 592ms
+16:53:46.236 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 800ms
+16:53:47.247 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1010ms
+16:53:47.247 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:53:47.249 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:53:47.250 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+16:53:47.818 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+16:53:47.821 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:53:47.821 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:53:47.826 [main] DEBUG com.browserstack.LocalFactory - Starting BrowserStack Local with identifier 14_feb__1653_BOU499879_T5ny
+16:53:51.593 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:53:52.054 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:53:52.056 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:53:52.087 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:53:52.207 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:53:52.923 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:53:53.513 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 587ms
+16:53:54.310 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 794ms
+16:53:55.350 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1038ms
+16:53:55.353 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:53:55.357 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:53:55.388 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:53:55.388 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+16:53:58.321 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+16:53:58.788 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
+16:53:58.789 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:54:51.843 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+16:54:51.846 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:54:52.001 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:54:52.001 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:54:52.035 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:54:52.778 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket39823 @w@/tmp/idea_working_dirs_testng.tmp -temp /tmp/idea_testng.tmp
+16:54:52.778 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: 
+16:54:52.783 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: testng, Engine: none
+16:54:52.790 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: testng, Engine: cucumber from dependencies
+16:54:52.791 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: cucumber-testng
+16:54:52.791 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:54:52.791 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+16:54:53.495 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:54:54.110 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 613ms
+16:54:54.896 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 782ms
+16:54:55.970 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1073ms
+16:54:55.972 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:54:55.977 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:54:55.977 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+16:54:56.434 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+16:54:56.436 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:54:56.437 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:54:56.441 [main] DEBUG com.browserstack.LocalFactory - Starting BrowserStack Local with identifier 14_feb__1654_BOU499879_zFU1
+16:55:00.160 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:55:00.560 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:55:00.562 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:55:00.590 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:55:00.703 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:55:01.417 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:55:02.011 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 591ms
+16:55:02.799 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 784ms
+16:55:04.117 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1316ms
+16:55:04.119 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:55:04.120 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:55:04.145 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:55:04.145 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+16:55:07.085 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+16:55:07.529 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
+16:55:07.530 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:57:27.295 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+16:57:27.297 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:57:27.464 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:57:27.465 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:57:27.507 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:57:28.263 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket46565 @w@/tmp/idea_working_dirs_testng.tmp -temp /tmp/idea_testng.tmp
+16:57:28.264 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: 
+16:57:28.269 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: testng, Engine: none
+16:57:28.274 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: testng, Engine: cucumber from dependencies
+16:57:28.274 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: cucumber-testng
+16:57:28.274 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:57:28.274 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+16:57:29.008 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:57:29.601 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 589ms
+16:57:30.434 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 829ms
+16:57:31.479 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1043ms
+16:57:31.481 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:57:31.486 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:57:31.487 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+16:57:33.114 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+16:57:33.117 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:57:33.117 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+16:57:33.123 [main] DEBUG com.browserstack.LocalFactory - Starting BrowserStack Local with identifier 14_feb__1657_BOU499879_ZsN2
+16:57:36.741 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+16:57:37.164 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:57:37.167 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:57:37.198 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:57:37.318 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:57:38.005 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:57:38.613 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 605ms
+16:57:39.396 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 780ms
+16:57:40.461 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1064ms
+16:57:40.462 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:57:40.464 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+16:57:40.493 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:57:40.493 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+16:57:43.506 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+16:57:43.954 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
+16:57:43.954 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+16:59:55.784 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+16:59:55.786 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+16:59:55.983 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+16:59:55.985 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+16:59:56.018 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:59:56.829 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 tests.TestRates,createRate
+16:59:56.829 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: tests.TestRates
+16:59:56.839 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: junit5, Engine: none
+16:59:56.844 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: junit5, Engine: cucumber from dependencies
+16:59:56.845 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: cucumber-junit5
+16:59:56.845 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+16:59:56.845 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+16:59:57.542 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+16:59:58.111 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 566ms
+16:59:58.908 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 792ms
+16:59:59.927 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1018ms
+16:59:59.928 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+16:59:59.931 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+16:59:59.931 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+17:00:00.470 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+17:00:00.472 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:00:00.472 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:00:00.476 [main] DEBUG com.browserstack.LocalFactory - Starting BrowserStack Local with identifier 14_feb__1659_BOU499879_bogI
+17:00:04.203 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:00:04.626 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+17:00:04.629 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+17:00:04.660 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:00:04.777 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+17:00:05.508 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+17:00:06.124 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 613ms
+17:00:06.931 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 805ms
+17:00:07.976 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1044ms
+17:00:07.979 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+17:00:07.982 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:00:08.037 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+17:00:08.038 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+17:00:11.094 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+17:00:11.534 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
+17:00:11.534 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:11:44.397 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+17:11:44.399 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:11:44.543 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+17:11:44.544 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+17:11:44.579 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:11:45.339 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 tests.TestRates,createRate
+17:11:45.339 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: tests.TestRates
+17:11:45.348 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: junit5, Engine: none
+17:11:45.353 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: junit5, Engine: cucumber from dependencies
+17:11:45.353 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: cucumber-junit5
+17:11:45.353 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+17:11:45.353 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+17:11:46.051 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+17:11:46.639 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 585ms
+17:11:47.444 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 801ms
+17:11:48.507 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1062ms
+17:11:48.509 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+17:11:48.516 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+17:11:48.517 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+17:11:49.074 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+17:11:49.076 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:11:49.076 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:11:49.081 [main] DEBUG com.browserstack.LocalFactory - Starting BrowserStack Local with identifier 14_feb__1711_BOU499879_c7al
+17:11:52.899 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:11:53.296 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+17:11:53.299 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+17:11:53.330 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:11:53.441 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+17:11:54.109 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+17:11:54.689 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 579ms
+17:11:55.479 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 786ms
+17:11:56.482 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1001ms
+17:11:56.484 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+17:11:56.485 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:11:56.525 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+17:11:56.525 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+17:11:59.569 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+17:11:59.998 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
+17:11:59.999 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:13:28.615 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+17:13:28.617 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:13:28.795 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+17:13:28.796 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+17:13:28.833 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:13:29.590 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 tests.TestRates,createRate
+17:13:29.591 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: tests.TestRates
+17:13:29.599 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: junit5, Engine: none
+17:13:29.604 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: junit5, Engine: cucumber from dependencies
+17:13:29.604 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: cucumber-junit5
+17:13:29.604 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+17:13:29.604 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+17:13:30.328 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+17:13:30.952 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 623ms
+17:13:31.744 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 791ms
+17:13:32.749 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1004ms
+17:13:32.751 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+17:13:32.757 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+17:13:32.757 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+17:13:33.229 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+17:13:33.230 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:13:33.230 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:13:33.233 [main] DEBUG com.browserstack.LocalFactory - Starting BrowserStack Local with identifier 14_feb__1713_BOU499879_nnSC
+17:13:36.989 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:13:37.434 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+17:13:37.437 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+17:13:37.470 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:13:37.592 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+17:13:38.310 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+17:13:38.901 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 587ms
+17:13:39.684 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 779ms
+17:13:40.689 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1004ms
+17:13:40.690 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+17:13:40.691 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:13:40.727 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+17:13:40.727 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+17:13:43.856 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+17:13:44.399 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
+17:13:44.399 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:16:01.504 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+17:16:01.507 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:16:01.667 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+17:16:01.669 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+17:16:01.702 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:16:02.461 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 tests.TestRates,createRate
+17:16:02.461 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: tests.TestRates
+17:16:02.470 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: junit5, Engine: none
+17:16:02.474 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: junit5, Engine: cucumber from dependencies
+17:16:02.475 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: cucumber-junit5
+17:16:02.475 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+17:16:02.475 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+17:16:03.175 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+17:16:03.822 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 645ms
+17:16:04.643 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 817ms
+17:16:05.696 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1052ms
+17:16:05.698 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+17:16:05.705 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+17:16:05.706 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+17:16:06.145 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+17:16:06.146 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:16:06.146 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:16:06.149 [main] DEBUG com.browserstack.LocalFactory - Starting BrowserStack Local with identifier 14_feb__1716_BOU499879_OrmI
+17:16:09.891 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:16:10.316 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+17:16:10.318 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+17:16:10.350 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:16:10.472 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+17:16:11.133 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+17:16:11.729 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 594ms
+17:16:12.523 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 790ms
+17:16:13.582 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1058ms
+17:16:13.585 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+17:16:13.588 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:16:13.635 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+17:16:13.635 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+17:16:16.771 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+17:16:17.231 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
+17:16:17.231 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+17:17:45.814 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.14.1
+17:17:45.817 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+17:17:45.995 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+17:17:45.996 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+17:17:46.036 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:17:46.837 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 tests.TestRates,createRate
+17:17:46.837 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: tests.TestRates
+17:17:46.847 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: junit5, Engine: none
+17:17:46.855 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: junit5, Engine: cucumber from dependencies
+17:17:46.855 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: cucumber-junit5
+17:17:46.855 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+17:17:46.855 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit4
+17:17:47.542 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+17:17:48.132 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 588ms
+17:17:48.958 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 823ms
+17:17:50.015 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1056ms
+17:17:50.016 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+17:17:50.018 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+17:17:50.018 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+17:17:50.551 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+17:17:50.552 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:17:50.552 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+17:17:50.555 [main] DEBUG com.browserstack.LocalFactory - Starting BrowserStack Local with identifier 14_feb__1717_BOU499879_VC7P
+17:17:54.483 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+17:17:54.915 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+17:17:54.918 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/jtorr70/Folders/Documentos/TESTING/SemilleroAutomatedSQA/bbog-ldf-automated-testing/browserstack.yml
+17:17:54.948 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:17:55.071 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+17:17:55.738 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-use.browserstack.com","hub-usw.browserstack.com","hub-euw.browserstack.com"]
+17:17:56.327 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-use.browserstack.com HUB IS: 585ms
+17:17:57.106 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-usw.browserstack.com HUB IS: 775ms
+17:17:58.199 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1092ms
+17:17:58.202 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-use.browserstack.com
+17:17:58.205 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+17:17:58.259 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled. Your cucumber-core dependency version is 1.2.5 which is lower than the minimum version we currently support (7.3.0).
+17:17:58.259 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is junit4. We currently support frameworks testng, cucumber-testng & serenity
+17:18:01.371 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+17:18:01.822 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/60402eb244e34c6c8ead03789197c3a6d8f6a894
+17:18:01.823 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO

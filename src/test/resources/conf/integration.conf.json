@@ -1,0 +1,32 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "jtorr_fjloOk",
+  "key": "JGV2smKhxBTmfm7r21jF",
+  "capabilities": {
+    "project": "Lineas de facturas",
+    "build": "LineasDeFacturas_ValDispositivos",
+    "browserstack.geoLocation": "CO",
+    "browserstack.idleTimeout": "500"
+  },
+  "environments": {
+    "Mac": {
+      "browser": "Chrome",
+      "os_version": "Big Sur",
+      "os": "OS X",
+      "browser_version": "latest",
+      "resolution": "1600x1200"
+    },
+    "Safari": {
+      "os": "OS X",
+      "browser": "Safari",
+      "os_version": "Monterey",
+      "browser_version": "15.3",
+      "resolution": "1920x1080"
+    },
+    "Mobile Huawei": {
+      "os_version": "9.0",
+      "device": "Huawei P30",
+      "real_mobile": "true"
+    }
+  }
+}

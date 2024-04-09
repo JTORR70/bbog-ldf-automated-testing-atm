@@ -1,0 +1,77 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "jtorr_fjloOk",
+  "key": "JGV2smKhxBTmfm7r21jF",
+  "capabilities": {
+    "project": "Lineas de facturas",
+    "build": "LineasDeFacturas_ValDispositivos",
+    "browserstack.geoLocation": "CO",
+    "browserstack.idleTimeout": "500",
+    "browserstack.local": "true",
+    "browserstack.debug": "true",
+    "browserstack.networkLogs": "true",
+    "browserstack.selenium_version": "4.1.2",
+    "browserstack.seleniumLogs": "true",
+
+  },
+  "environments": {
+    "Chrome": {
+      "browser": "Chrome",
+      "os_version": "11",
+      "os": "Windows",
+      "browser_version": "latest",
+      "resolution": "1440x900"
+    },
+    "Safari": {
+      "os": "OS X",
+      "browser": "Safari",
+      "os_version": "Monterey",
+      "browser_version": "15.3",
+      "resolution": "1920x1080"
+    },
+    "Firefox": {
+      "browser": "Firefox",
+      "os_version": "10",
+      "os": "Windows",
+      "browser_version": "latest",
+      "resolution": "1440x900"
+    },
+    "Mobile SamsungGalaxyS20": {
+      "os_version": "10.0",
+      "device": "Samsung Galaxy S20",
+      "real_mobile": "true"
+    },
+    "Mobile SamsungGalaxyA51": {
+      "os_version": "10.0",
+      "device": "Samsung Galaxy A51",
+      "real_mobile": "true"
+    },
+    "Mobile Iphone": {
+      "os_version": "15.4",
+      "device": "iPhone 13",
+      "real_mobile": "true"
+    },
+    "Mobile Xiaomi Note 8": {
+      "os_version": "9.0",
+      "device": "Xiaomi Redmi Note 8",
+      "real_mobile": "true"
+    },
+    "Mobile Xiaomi Note 9": {
+      "os_version": "10.0",
+      "device": "Xiaomi Redmi Note 9",
+      "real_mobile": "true"
+    },
+    "Mobile Huawei": {
+      "os_version": "9.0",
+      "device": "Huawei P30",
+      "real_mobile": "true"
+    },
+    "Mac": {
+      "browser": "Chrome",
+      "os_version": "Big Sur",
+      "os": "OS X",
+      "browser_version": "latest",
+      "resolution": "1600x1200"
+    }
+  }
+}
